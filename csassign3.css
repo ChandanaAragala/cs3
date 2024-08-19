@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    background-color: rgb(190, 227, 225);
+    box-shadow: black;
+} 
+
+
+table{
+    text-align: center;
+    
+}
+h2{
+    background-color: blueviolet;
+}
+p{
+    background-color: bisque;
+    
+}
+th{
+    background-color: rgb(255, 0, 153);
+}
+#td1{
+    background-color: aqua;
+}
+#td2{
+    background-color: chocolate;
+}
